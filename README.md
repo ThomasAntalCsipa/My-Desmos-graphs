@@ -21,7 +21,7 @@ I explored the floor function with powers: https://www.desmos.com/calculator/cfj
 
 ---
 
-## Here are som extra
+## Here are som extras
 
 These are not made in Desmos, but are still cool. Press the 3 lines on the top to edit the variables.  
 The lighter the colors are, the bigger the function value is and the darker, the smaller the function value.  
