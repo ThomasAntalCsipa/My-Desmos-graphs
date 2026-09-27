@@ -1,19 +1,19 @@
 # My-Desmos-graphs
 
-This is just a list of cool math graps and funtions I made in Desmos.  
-As I know, there is no easy way to share your Desmos graphs.
+This is just a list of cool math graphs and functions I made in Desmos.  
+As I know, there is no easy way to share your Desmos graphs.  
+So I am sharing them with GitHub, these are just the coolest of them.
 
-Here I had a complex number and made it like a 2D vector in pure algebra: https://www.desmos.com/calculator/rjedz1lmme  
+Here I had a complex number and made it like a 2D vector with pure algebra: https://www.desmos.com/calculator/rjedz1lmme  
 ![A point thtat has a line going from the origo to the point](./i_vector.png)
-
 
 In this one I explored power of i: https://www.desmos.com/calculator/g39z2eivka  
 ![A vertiacal red wave and a horisontal blue wave made out of lines](./i^i^i_graph.png)
 
-I used a simpel rule with complex numbers to get symetric shapes: https://www.desmos.com/calculator/1lypnjsqiu  
+I used a simpel rule with complex numbers to get symmetric shapes: https://www.desmos.com/calculator/1lypnjsqiu  
 ![points on a grid placed in a seven sidede form](./i_fractions_symetry.png)
 
-A flexebel triangel: https://www.desmos.com/calculator/lostjdy1dx  
+A flexible triangle: https://www.desmos.com/calculator/lostjdy1dx  
 ![A green triangel graph](./triangel_diferantial.png)
 
 I explored the floor function with powers: https://www.desmos.com/calculator/cfjucbvymh  
@@ -21,7 +21,7 @@ I explored the floor function with powers: https://www.desmos.com/calculator/cfj
 
 ---
 
-## Here are som extras
+## Here are some extras
 
 These are not made in Desmos, but are still cool. Press the 3 lines on the top to edit the variables.  
 The lighter the colors are, the bigger the function value is and the darker, the smaller the function value.  
